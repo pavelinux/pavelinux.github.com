@@ -5,7 +5,7 @@ tagline: The daily Python Lesson
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
@@ -21,7 +21,7 @@ In `_config.yml` remember to specify your own data:
       github : username
       twitter : username
 
-The theme should reference these variables whenever needed.
+The theme should reference these variables whenever needed. -->
     
 ## Sample Posts
 
