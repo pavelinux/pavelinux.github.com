@@ -15,12 +15,37 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: rgba(26, 102, 32, 1);
 }
-#footer {
-  background-color: #fdcd60;
+a {
+  color: #11A611;
+}
+body{
+  color: #3776AB;
+}
+.navbar-default .navbar-brand{
+    color: #FFF;
+}
+.navbar-default {
+    background-image: linear-gradient(to bottom, #2B5B84 0px, #3776AB 100%);
+    background-repeat: repeat-x;
+    border-radius: 4px;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 5px rgba(0, 0, 0, 0.075);
+    color: #3776AB;
+    
+}
+.navbar-brand:hover {
+    
+    color: #3776AB;
 }
 
+#footer {
+  background: none repeat scroll 0% 0% #3776AB;
+  color: #fff;
+}
+#footer a{
+  color: #FFD343;
+}
 
 
 /* posts index */

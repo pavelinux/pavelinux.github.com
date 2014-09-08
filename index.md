@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Python in 20 minutes
+tagline: The daily Python Lesson
 ---
 {% include JB/setup %}
 
@@ -30,7 +30,7 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples
 
-Here's a sample "posts list".
+Lecciones de Python:
 
 <ul class="posts">
   {% for post in site.posts %}
