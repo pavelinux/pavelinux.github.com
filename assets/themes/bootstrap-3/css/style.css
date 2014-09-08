@@ -47,6 +47,10 @@ body{
   color: #FFD343;
 }
 
+code{
+  color: #3806BC;
+  background-color: #f5f5f5;
+}
 
 /* posts index */
 .post > h3.title {
