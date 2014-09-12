@@ -13,6 +13,41 @@
 /*.navbar .nav {
   float: right; }*/
 
+
+/*The navbar section*/
+.navbar-default {
+    background-image: linear-gradient(to bottom, #2B5B84 0px, #3776AB 100%);
+    background-repeat: repeat-x;
+    border-radius: 4px;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 5px rgba(0, 0, 0, 0.075);
+    color: #FFD343;
+    
+}
+.navbar-logo {
+    float: left;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFD343;
+}
+.navbar-logo:hover{
+    color: #FFF;
+    text-decoration: none;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+  color: #FFD343;
+}
+.navbar-nav > .active > a {
+    background-color: #D89C44;
+    /*background-image: linear-gradient(to bottom, #EBEBEB 0px, rgba(210, 197, 47, 1) 100%);
+    background-repeat: repeat-x;
+    box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.075) inset;*/
+}
+
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
   color: rgba(26, 102, 32, 1);
@@ -24,29 +59,7 @@ body{
   color: #3776AB;
 }
 
-.navbar-default .navbar-brand{
-    color: #FFF;
-}
-.navbar-brand:hover{
-    color: :#FFF;
-}
-.navbar-default {
-    background-image: linear-gradient(to bottom, #2B5B84 0px, #3776AB 100%);
-    background-repeat: repeat-x;
-    border-radius: 4px;
-    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 5px rgba(0, 0, 0, 0.075);
-    color: #FFD343;
-    
-}
-
-.navbar-default .navbar-nav>li>a {
-  color: #fff;
-}
-
-.navbar-default .navbar-nav>li>a:hover{
-  color: #FFD343;
-}
-
+/*The footer section*/
 #footer {
   background: none repeat scroll 0% 0% #3776AB;
   color: #fff;
@@ -56,8 +69,8 @@ body{
 }
 
 code{
-  color: #3806BC;
-  background-color: #f5f5f5;
+  color: #1A18CD;
+  background-color: #E3E3E3;
 }
 
 /* posts index */
