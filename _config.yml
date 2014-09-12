@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Python in 20 minutes
-tagline: The daily Python lesson
+tagline: A Cup of Python in the Morning!
 author :
   name : Pável Oropeza Alfaro
   email : zahori@gmail.com
