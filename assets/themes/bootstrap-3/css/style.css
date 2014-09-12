@@ -45,6 +45,13 @@
     background-color: #D89C44;
 }
 
+/*MathJax*/
+code.has-jax {
+  font: inherit; font-size: 100%;
+  background: inherit;
+  border: inherit;
+  background-color: #5A58E3;
+}
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
   color: rgba(26, 102, 32, 1);
