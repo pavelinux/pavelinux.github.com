@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python in 20 minutes
-tagline: The daily Python Lesson
+tagline: A Cup of Python in the Morning!
 ---
 {% include JB/setup %}
 

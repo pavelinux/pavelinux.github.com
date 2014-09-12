@@ -43,9 +43,6 @@
 }
 .navbar-nav > .active > a {
     background-color: #D89C44;
-    /*background-image: linear-gradient(to bottom, #EBEBEB 0px, rgba(210, 197, 47, 1) 100%);
-    background-repeat: repeat-x;
-    box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.075) inset;*/
 }
 
 /* Jekyll Bootstrap Colors */
