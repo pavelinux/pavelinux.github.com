@@ -11,6 +11,14 @@ Using a `for loop` could be useful for generating list comprehensions:
 	
 	isOdd = []
 
+Algo del buen Schrödinger:
+
+
+	\left [ - \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi
+	= i \hbar \frac{\partial}{\partial t} \Psi
+
+
+
 Algo que debemos descubrir cómo funciona y comprender muy bien:
 
 \begin{aligned}
@@ -151,3 +159,4 @@ Y un poco de estadística:
     </mrow>
   </msup>
 </math>
+
