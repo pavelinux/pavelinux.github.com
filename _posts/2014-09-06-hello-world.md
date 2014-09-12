@@ -14,8 +14,7 @@ Using a `for loop` could be useful for generating list comprehensions:
 Algo del buen Schrödinger:
 
 
-	\left [ - \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi
-	= i \hbar \frac{\partial}{\partial t} \Psi
+\left [ - \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi
 
 
 
