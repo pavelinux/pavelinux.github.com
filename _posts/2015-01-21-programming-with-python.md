@@ -10,7 +10,7 @@ tags: [python, programming, simulations]
 
 We start this serie of posts by defining our purposes:
 
-* To develop small and simple programs using programming elements and structures.
+* To develop small and simple programs using programming elements and structures based on Numerical Methods notes "algorithms and technics".
 * This programs should give an approximation to defined physical problems.
-* These results may be improved by iteration or redefiniton of the model.
+* These results may be improved by iteration or redefiniton of the models.
 
