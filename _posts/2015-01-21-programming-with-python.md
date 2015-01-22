@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Programming with Python"
 tagline: A Cup of Python in the Morning!
 description: ""
