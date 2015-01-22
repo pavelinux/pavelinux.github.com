@@ -61,11 +61,6 @@ Algo del buen Schrödinger:
 
 
 
-Algo que debemos descubrir cómo funciona y comprender muy bien:
-
-\begin{aligned}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}}\end{aligned}
-
 Y acá va un producto cruz:
 
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
