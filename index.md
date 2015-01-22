@@ -7,7 +7,7 @@ category: Scientific Programming
 tags: [python, programming, simulations]
 ---
 {% include JB/setup %}
-##The goals
+#The goals
 
 We start this serie of posts by defining our purposes:
 
@@ -15,8 +15,8 @@ We start this serie of posts by defining our purposes:
 * This programs should give an approximation to previously defined physical problems.
 * These results may be improved by iteration or redefiniton of the models.
 
-#Here we include some little programs to start a Cup of Python!
-Python Programs:
+###Here we include some little programs to start a Cup of Python!
+List of Python Programs:
 
     {% for post in site.posts %}
     {{ post.date | date_to_string }} » {{ post.title }}
