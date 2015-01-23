@@ -11,7 +11,7 @@ tags: [python, programming, simulations]
 
 We start this serie of posts by defining our purposes:
 
-* To develop small and simple models using programming elements and structures based on Numerical Methods notes to develop Python programs. 
+* To develop small and simple models using programming elements and structures based on Numerical Methods class notes to write Python programs. 
 * This programs should give an approximation to previously defined physical problems.
 * These results may be improved by iteration or redefiniton of the models.
 
