@@ -8,11 +8,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Python in 20 minutes
-tagline: A Cup of Python in the Morning!
+title : A Cup of Python in the Morning!
+tagline: Python in 20 minutes
 author :
   name : Pável Oropeza Alfaro
-  email : zahori@gmail.com
+  email : pavel12py@gmail.com
   github : pavelinux
   twitter : zahori
   feedburner : feedname
