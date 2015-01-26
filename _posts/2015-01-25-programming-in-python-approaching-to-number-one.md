@@ -6,6 +6,7 @@ categories: [Programming, Python, Series]
 tags: [cycles, while, series, convergence]
 ---
 {% include JB/setup %}
+Here we have some code which shows the use of a *while cycle*
 >#!/usr/bin/env python
 ># This program computes a serie of the type
 ># 1 =  1 / 2 ** 1 + ... + 1 / ( 2 ** n )
