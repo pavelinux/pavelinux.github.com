@@ -6,7 +6,11 @@ categories: [Programming, Python, Series]
 tags: [cycles, while, series, convergence]
 ---
 {% include JB/setup %}
-Here we have some code which shows the use of a *while cycle*:
+Here we use one of the control structures most used on every programming language. We are talking about 
+the *while* cycle statement which is used for iteration problems
+In this post we use the cycle 
+for calculating a *sum* of the form:
+
 
 >#!/usr/bin/env python
 ># This program computes a serie of the type
