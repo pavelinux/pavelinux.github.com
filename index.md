@@ -7,7 +7,10 @@ category: Scientific Programming
 tags: [python, programming, simulations]
 ---
 {% include JB/setup %}
-#The goals
+**A Cup of Python in the morning** is a personal page about some little Python projects which are supposed to be read while you 
+enjoy a *delicious cup of coffee*. 
+
+##The goals
 
 We start this serie of posts by defining our purposes:
 
