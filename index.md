@@ -15,7 +15,7 @@ enjoy a *delicious cup of coffee*.
 We start this serie of posts by defining our purposes:
 
 * To develop small and simple models using programming elements and structures based on Numerical Methods class notes to write Python programs. 
-* This programs should give an approximation to previously defined physical problems.
+* This programs should give an approximation to previously defined numerical or physical problems.
 * These results may be improved by iteration or redefiniton of the models.
 
 ###Here we include some little programs to start a Cup of Python!
