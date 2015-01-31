@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Programming in Python: Approaching to number One"
+description: "The use  "
+categories: [Programming, Python, Series] 
+tags: [cycles, while, series, convergence]
 <style TYPE="text/css">
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
 </style>
@@ -16,12 +22,6 @@ MathJax.Hub.Queue(function() {
 });
 </script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
----
-layout: post
-title: "Programming in Python: Approaching to number One"
-description: "The use  "
-categories: [Programming, Python, Series] 
-tags: [cycles, while, series, convergence]
 ---
 {% include JB/setup %}
 Here we use one of the control structures most used on every programming language. We are talking about 
