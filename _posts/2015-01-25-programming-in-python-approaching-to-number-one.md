@@ -10,7 +10,7 @@ Here we use one of the control structures most used on every programming languag
 the *while* cycle statement which is used for iteration problems.
 In this post we use the cycle 
 for calculating a *sum* of the form:
-$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$
+$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$
 
 
 
