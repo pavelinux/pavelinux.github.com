@@ -112,8 +112,8 @@ Last
 References:
 ==========
 
-    1. Salas, S. L., Hille, E and Etgen, G. (2007). *Calculus* , 575–579.
+    1. Salas, S. L., Hille, E and Etgen, G. (2007). **Calculus** , 575–579.
 
-    2. Downey, Allen (2013). Think Python. *How to think like a Computer
-    Scientist* , 64–65.
+    2. Downey, Allen (2013). Think Python. **How to think like a Computer
+    Scientist** , 64–65.
 - - -
