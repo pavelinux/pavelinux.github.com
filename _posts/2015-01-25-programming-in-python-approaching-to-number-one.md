@@ -43,18 +43,17 @@ The syntax of a *while* statement is very simple but strict on Python.
     then go back to step 1.
 
 <!-- -->
-<pre><code>
-    #Start the cycle. 
-    #(Previously define the included variables)
-    while desv >= tol:
-        output = output + (1.00 / (2 ** i)) 
-        i += 1             
-        desv = abs(value - output)                                                                                                                   
-        print "1.0000 -", output, " = ", desv
-    #End of cycle and while statement.
-    #Note the level of indentation
-    #inside the body.
-</code></pre>
+>    #Start the cycle. 
+>    #(Previously define the included variables)
+>    while desv >= tol:
+>        output = output + (1.00 / (2 ** i)) 
+>        i += 1             
+>        desv = abs(value - output)
+>        print "1.0000 -", output, " = ", desv
+>    #End of cycle and while statement.
+>    #Note the level of indentation
+>    #inside the body.
+
 Results
 =======
 Tolerance (condition for the iterarion) d = 0.01
