@@ -24,13 +24,13 @@ The *while* cycle on Python
 ---------------------------
 The syntax of a *while* statement is very simple but strict on Python.
 
-    1.One always have to include a condition, yielding a *True* or
+    1. One always have to include a condition, yielding a *True* or
     *False*.
 
-    2.If the condition is *False* exit the *while* statement and continue
+    2. If the condition is *False* exit the *while* statement and continue
     with the rest of the statements of the program.
 
-    3.If the condition is *True* execute the body of the *while* cycle and
+    3. If the condition is *True* execute the body of the *while* cycle and
     then go back to step 1.
 
 Some code
