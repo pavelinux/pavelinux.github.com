@@ -22,26 +22,19 @@ Iterations and controlled loops
 
 The *while* cycle on Python
 ---------------------------
+The syntax of a *while* statement is very simple but strict on Python.
 
--   First item in a list
+    1.One always have to include a condition, yielding a *True* or
+    *False*.
 
--   Second item in a list
+    2.If the condition is *False* exit the *while* statement and continue
+    with the rest of the statements of the program.
 
--   Third item in a list
+    3.If the condition is *True* execute the body of the *while* cycle and
+    then go back to step 1.
 
 Some code
 ---------
-The syntax of a *while* statement is very simple but strict on Python.
-
-    1.  One always have to include a condition, yielding a *True* or
-    *False*.
-
-    2.  If the condition is *False* exit the *while* statement and continue
-    with the rest of the statements of the program.
-
-    3.  If the condition is *True* execute the body of the *while* cycle and
-    then go back to step 1.
-
 <pre><code>#(Previously initialize the included variables)
 while desv = tol:
     output = output + (1.00 / (2 ** i)) 
@@ -63,6 +56,7 @@ Tolerance (condition for the iterarion) d = 0.01
 .tg .tg-hgcj{font-weight:bold;text-align:center}
 .tg .tg-s6z2{text-align:center}
 </style>
+<center>
 <table class="tg">
   <tr>
     <th class="tg-hgcj">Steps</th>
@@ -105,6 +99,7 @@ Tolerance (condition for the iterarion) d = 0.01
     <td class="tg-s6z2">0.0078125</td>
   </tr>
 </table>
+</center>
 
 Discussion
 ==========
