@@ -53,6 +53,7 @@ The syntax of a *while* statement is very simple but strict on Python.
     #Note the level of indentation
     #inside the statement.
 </code>
+
 Results
 =======
 |Tolerance (condition for the iterarion) d = 0.01|
