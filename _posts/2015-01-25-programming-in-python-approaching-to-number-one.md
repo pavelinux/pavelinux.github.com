@@ -8,10 +8,10 @@ tags: [cycles, while, series, convergence]
 
 **H**ere we use one of the control structures most used on every
 programming language. We are talking about the *while* statement which
-is used for iteration problems. In this case we use this cycle for
+is used for iteration problems. We use this statement for
 calculating a *sum* of the form:
-$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$ In this *iteration*
-we are able to control how exact our result is going to be.**
+$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$. Doing this task require to 
+use an *iteration* (repeating identical or similar tasks until a condition is satisfied).
 
 Iterations and controlled loops
 ===============================
@@ -55,9 +55,6 @@ The syntax of *while* statement is very simple but strict on Python.
 Results
 =======
 
-llr
-
-\
 (r)1-2 $Steps$ & $output$ & $Tol.$\
 $1$ & $0.5$ & $0.5$\
 $2$ & $0.75$ & $0.25$\
@@ -71,17 +68,16 @@ Discussion
 ==========
 
 First
-:   This is the first item
 
 Last
-:   This is the last item
+   This is the last item
 
-99
+References:
+==========
 
-Salas, S. L., Hille, E and Etgen, G. (2007). Calculus , 575–579.
+1. Salas, S. L., Hille, E and Etgen, G. (2007). Calculus , 575–579.
 
-Downey, Allen (2013). Think Python. How to think like a Computer
+2. Downey, Allen (2013). Think Python. How to think like a Computer
 Scientist , 64–65.
-
 
 
