@@ -35,6 +35,9 @@ The syntax of a *while* statement is very simple but strict on Python.
 
 Some code
 ---------
+Here [link](https://drive.google.com/open?id=0B2YrVnfiYDPsd0wzUkUwZmFPNTA&authuser=0) we
+include the complete code of this example. Below is the iteration section:
+ 
 <pre><code>#(Previously initialize the included variables)
 while desv = tol:
     output = output + (1.00 / (2 ** i)) 
