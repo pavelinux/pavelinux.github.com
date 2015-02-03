@@ -55,50 +55,56 @@ Results
 =======
 
 Tolerance (condition for the iterarion) d = 0.01
-<center>
-<table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-hgcj{font-weight:bold;text-align:center}
+.tg .tg-s6z2{text-align:center}
+</style>
+<table class="tg">
   <tr>
-    <th>Steps</th>
-    <th>Output</th>
-    <th>Tol.</th>
+    <th class="tg-hgcj">Steps</th>
+    <th class="tg-hgcj">Output</th>
+    <th class="tg-hgcj">Tol.</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>0.5</td>
-    <td>0.5</td>
+    <td class="tg-s6z2">1</td>
+    <td class="tg-s6z2">0.5</td>
+    <td class="tg-s6z2">0.5</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>0.75</td>
-    <td>0.25</td>
+    <td class="tg-s6z2">2</td>
+    <td class="tg-s6z2">0.75</td>
+    <td class="tg-s6z2">0.25</td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>0.875</td>
-    <td>0.125</td>
+    <td class="tg-s6z2">3</td>
+    <td class="tg-s6z2">0.875</td>
+    <td class="tg-s6z2">0.125</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>0.9375</td>
-    <td>0.0625</td>
+    <td class="tg-s6z2">4</td>
+    <td class="tg-s6z2">0.9375</td>
+    <td class="tg-s6z2">0.0625</td>
   </tr>
   <tr>
-    <td>5</td>
-    <td>0.96875</td>
-    <td>0.03125</td>
+    <td class="tg-s6z2">5</td>
+    <td class="tg-s6z2">0.96875</td>
+    <td class="tg-s6z2">0.03125</td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>0.984375</td>
-    <td>0.015625</td>
+    <td class="tg-s6z2">6</td>
+    <td class="tg-s6z2">0.984375</td>
+    <td class="tg-s6z2">0.015625</td>
   </tr>
   <tr>
-    <td>7</td>
-    <td>0.9921875</td>
-    <td>0.0078125</td>
+    <td class="tg-s6z2">7</td>
+    <td class="tg-s6z2">0.9921875</td>
+    <td class="tg-s6z2">0.0078125</td>
   </tr>
 </table>
-</center>
 
 Discussion
 ==========
@@ -111,8 +117,8 @@ Last
 References:
 ==========
 
-1. Salas, S. L., Hille, E and Etgen, G. (2007). Calculus , 575–579.
+    1. Salas, S. L., Hille, E and Etgen, G. (2007). Calculus , 575–579.
 
-2. Downey, Allen (2013). Think Python. How to think like a Computer
-Scientist , 64–65.
+    2. Downey, Allen (2013). Think Python. How to think like a Computer
+    Scientist , 64–65.
 - - -
