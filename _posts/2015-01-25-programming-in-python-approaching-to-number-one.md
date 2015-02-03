@@ -11,7 +11,7 @@ programming language. We are talking about the *while* statement which
 is used for iteration problems. We use this statement for
 calculating a *sum* of the form:
 <center>
-$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$. 
+$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$ 
 </center>
 
 Doing this task require to 
@@ -31,7 +31,6 @@ The *while* cycle on Python
 
 Some code
 ---------
-
 The syntax of a *while* statement is very simple but strict on Python.
 
     1.  One always have to include a condition, yielding a *True* or
@@ -43,7 +42,7 @@ The syntax of a *while* statement is very simple but strict on Python.
     3.  If the condition is *True* execute the body of the *while* cycle and
     then go back to step 1.
 
-<<-->>
+<pre><code>
 #(Previously initialize the included variables)
 while desv = tol:
     output = output + (1.00 / (2 ** i)) 
@@ -52,10 +51,15 @@ while desv = tol:
     print "1.0000 -", output, " = ", desv
 #Note the level of indentation
 #inside the statement.
-
+</code></pre>
 Results
 =======
 Tolerance (condition for the iterarion) d = 0.01
+|   Steps  |     Output    | Tol. |
+|:--------:|:-------------:|-----:|
+|     1    |      0.5      |  0.5 |
+| col 2 is |    centered   |  $12 |
+| col 3 is | right-aligned |   $1 |
 
 |Steps | Output | Tol.|
 |------|:------:|....:|
