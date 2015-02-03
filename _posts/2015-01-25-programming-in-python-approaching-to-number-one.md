@@ -28,7 +28,7 @@ The *while* cycle on Python
 Some code
 ---------
 
-The syntax of *while* statement is very simple but strict on Python.
+The syntax of a *while* statement is very simple but strict on Python.
 
 1.  One always have to include a condition, yielding a *True* or
     *False*.
@@ -40,13 +40,12 @@ The syntax of *while* statement is very simple but strict on Python.
     then go back to step 1.
 
 <!-- -->
-
     #Start the cycle. 
     #(Previously define the included variables)
-    while desv >= tol:                                                                                                                                                        
-        output = output + (1.00 / (2 ** i))                                                                                                                                   
-        i += 1                                                                                                                                                                
-        desv = abs(value - output)                                                                                                                                            
+    while desv >= tol:                                                                                                                         
+        output = output + (1.00 / (2 ** i)) 
+        i += 1             
+        desv = abs(value - output)                                                                                                                   
         print "1.0000 -", output, " = ", desv
     #End of cycle and while statement.
     #Note the level of indentation
@@ -54,8 +53,8 @@ The syntax of *while* statement is very simple but strict on Python.
 
 Results
 =======
-
-(r)1-2 $Steps$ & $output$ & $Tol.$\
+Tolerance (condition for the iterarion) d = 0.01
+$Steps$ & $output$ & $Tol.$\
 $1$ & $0.5$ & $0.5$\
 $2$ & $0.75$ & $0.25$\
 $3$ & $0.875$ & $0.125$\
@@ -79,5 +78,3 @@ References:
 
 2. Downey, Allen (2013). Think Python. How to think like a Computer
 Scientist , 64–65.
-
-
