@@ -55,23 +55,48 @@ Results
 
 =======
 Tolerance (condition for the iterarion) d = 0.01
-|   Steps  |     Output    | Tol. |
-|:--------:|:-------------:|-----:|
-|     1    |      0.5      |  0.5 |
-| col 2 is |    centered   |  $12 |
-| col 3 is | right-aligned |   $1 |
-
--- -
-
-|Steps | Output | Tol.|
-|------|:------:|....:|
-|1 | 0.5 | 0.5|
-|2 | 0.75 | 0.25|
-|3 | 0.875 | 0.125|
-|4 | 0.9375 | 0.0625|
-|5 | 0.96875 | 0.03125|
-|6 | 0.984375 | 0.015625|
-|7 | 0.9921875 | 0.0078125|
+<table>
+  <tr>
+    <th>Steps</th>
+    <th>Output</th>
+    <th>Tol.</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0.5</td>
+    <td>0.5</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>0.75</td>
+    <td>0.25</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>0.875</td>
+    <td>0.125</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>0.9375</td>
+    <td>0.0625</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>0.96875</td>
+    <td>0.03125</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>0.984375</td>
+    <td>0.015625</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>0.9921875</td>
+    <td>0.0078125</td>
+  </tr>
+</table>
 
 Discussion
 ==========
@@ -88,4 +113,4 @@ References:
 
 2. Downey, Allen (2013). Think Python. How to think like a Computer
 Scientist , 64–65.
-***
+- - -
