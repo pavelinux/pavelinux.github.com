@@ -52,9 +52,10 @@ while desv = tol:
 #inside the statement.</code></pre>
 
 Results
-
 =======
+
 Tolerance (condition for the iterarion) d = 0.01
+<center>
 <table>
   <tr>
     <th>Steps</th>
@@ -97,6 +98,7 @@ Tolerance (condition for the iterarion) d = 0.01
     <td>0.0078125</td>
   </tr>
 </table>
+</center>
 
 Discussion
 ==========
