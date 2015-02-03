@@ -20,9 +20,13 @@ We start this serie of posts by defining our purposes:
 
 ###Here we include some little programs to start a Cup of Python!
 List of Python Programs:
+{% include JB/setup %}
+
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}
 
     {% for post in site.posts %}
-        {{ post.date | date_to_string }} » {{ site.posts }}
+        {{ post.date | date_to_string }} » {{ posts.title }}
     {% endfor %} 
 
 Hope you enjoy them!
