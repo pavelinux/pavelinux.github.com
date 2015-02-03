@@ -21,7 +21,7 @@ We start this serie of posts by defining our purposes:
 ###Here we include some little programs to start a Cup of Python!
 List of Python Programs:
     {% for post in site.posts %}
-        {{ post.date | date_to_string }} » {{ posts.title }}
+        {{ post.date | date_to_string }} » {{ post.title }}
     {% endfor %} 
 
 Hope you enjoy them!
