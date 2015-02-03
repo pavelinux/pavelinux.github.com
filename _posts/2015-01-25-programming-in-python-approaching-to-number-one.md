@@ -10,7 +10,10 @@ tags: [cycles, while, series, convergence]
 programming language. We are talking about the *while* statement which
 is used for iteration problems. We use this statement for
 calculating a *sum* of the form:
-$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$. Doing this task require to 
+
+$$\displaystyle\sum_{k = 1}^{n} \frac{1}{2^{k}}= 1$$. 
+
+Doing this task require to 
 use an *iteration* (repeating identical or similar tasks until a condition is satisfied).
 
 Iterations and controlled loops
@@ -40,9 +43,10 @@ The syntax of a *while* statement is very simple but strict on Python.
     then go back to step 1.
 
 <!-- -->
+<pre><code>
     #Start the cycle. 
     #(Previously define the included variables)
-    while desv >= tol:                                                                                                                         
+    while desv >= tol:
         output = output + (1.00 / (2 ** i)) 
         i += 1             
         desv = abs(value - output)                                                                                                                   
@@ -50,7 +54,7 @@ The syntax of a *while* statement is very simple but strict on Python.
     #End of cycle and while statement.
     #Note the level of indentation
     #inside the body.
-
+</code></pre>
 Results
 =======
 Tolerance (condition for the iterarion) d = 0.01

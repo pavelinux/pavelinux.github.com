@@ -22,7 +22,7 @@ We start this serie of posts by defining our purposes:
 List of Python Programs:
 
     {% for post in site.posts %}
-    {{ post.date | date_to_string }} » {{ post.title }}
+    {{ post.date | date_to_string }} » {{ <post.title> }}
     {% endfor %} 
 
 Hope you enjoy them!
