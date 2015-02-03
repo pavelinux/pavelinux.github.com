@@ -43,21 +43,20 @@ The syntax of a *while* statement is very simple but strict on Python.
     3.  If the condition is *True* execute the body of the *while* cycle and
     then go back to step 1.
 
-<code>
-    #(Previously initialize the included variables)
-    while desv = tol:
-        output = output + (1.00 / (2 ** i)) 
-        i += 1             
-        desv = abs(value - output)
-        print "1.0000 -", output, " = ", desv
-    #Note the level of indentation
-    #inside the statement.
-</code>
+<<-->>
+#(Previously initialize the included variables)
+while desv = tol:
+    output = output + (1.00 / (2 ** i)) 
+    i += 1             
+    desv = abs(value - output)
+    print "1.0000 -", output, " = ", desv
+#Note the level of indentation
+#inside the statement.
 
 Results
 =======
-|Tolerance (condition for the iterarion) d = 0.01|
-|------------------------------------------------|
+Tolerance (condition for the iterarion) d = 0.01
+
 |Steps | Output | Tol.|
 |------|:------:|....:|
 |1 | 0.5 | 0.5|
@@ -83,3 +82,4 @@ References:
 
 2. Downey, Allen (2013). Think Python. How to think like a Computer
 Scientist , 64–65.
+***
