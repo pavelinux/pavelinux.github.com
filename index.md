@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Programming with Python"
-tagline: A Cup of Python
+tagline: "A Cup of Python"
 description: "index page"
 category: Scientific Programming
 tags: [python, programming, simulations]
