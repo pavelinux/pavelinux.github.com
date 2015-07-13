@@ -19,8 +19,11 @@ We start this serie of posts by defining our purposes:
 
 ###Here are some recent posts for start reading A Cup of Python!
 List of Posts:
-    {% for post in site.posts %}
-    {{site.production_url}}{{ post.url }}
-    {{ post.date | date_to_string }} » {{ post.title }}
-    {% endfor %} 
+    {% assign posts_collate = site.posts %}
+    {% include JB/posts_collate %}
+
+    -{% for post in site.posts %}
+    -{{site.production_url}}{{ post.url }}
+    -{{ post.date | date_to_string }} » {{ post.title }}
+    -{% endfor %} 
 Hope you enjoy them!
