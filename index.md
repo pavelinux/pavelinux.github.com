@@ -7,6 +7,7 @@ category: Scientific Programming
 tags: [python, programming, simulations]
 ---
 {% include JB/setup %}
+![Escher snakes]({{ site.url }}/assets/snakes.jpg)
 **A Cup of Python** is a personal blog about some little Python projects which are supposed to be read while you enjoy a *delicious cup of coffee*. 
 
 ##The goals
