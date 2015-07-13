@@ -19,8 +19,11 @@ We start this serie of posts by defining our purposes:
 
 ###Here are some recent posts for start reading A Cup of Python!
 List of Posts:
+<ul>
     {% for post in site.posts %}
-    {{site.production_url}}{{ post.url }}
-    {{ post.date | date_to_string }} » {{ post.title }} {{post.url}}
+    <li>
+    <a href="{{ post.url }}">{{ post.date | date_to_string }} » {{ post.title }} </a>
+    </li>
     {% endfor %} 
+</ul>
 Hope you enjoy them!
