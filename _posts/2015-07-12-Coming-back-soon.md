@@ -6,8 +6,7 @@ categories: [Python, fortran, MD]
 tags: [snippets, MD, Simulations, python]
 ---
 
-**C**oming back  with this new series of posts in which we talk about writing a ful
-program in python starting from basic newtonian principles of mechanics and thermodynamics. So in the next posts I will be describing how this task was done through little snippets of code.
+**C**oming back  with new series of posts in which we talk about writing a 
+program in python starting from basic newtonian mechanics and thermodynamics. So in next posts I will be describing how these tasks were done through little snippets of code.
 
 See you!
-- - -
