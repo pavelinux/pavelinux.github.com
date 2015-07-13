@@ -37,6 +37,26 @@ Some code
 ---------
 [Here](https://drive.google.com/open?id=0B2YrVnfiYDPsd0wzUkUwZmFPNTA&authuser=0) we
 include the complete code of this example. Below is the iteration section:
+{% highlight python linenos%}
+print "This program calculates the number of terms needed to get a desired approach to 1.0 using the expression"                                                          
+print "1 = 1 / 2 ** 1 + ... + 1 / ( 2 ** n )"                                                                                                                             
+print "It is considered a good value 0.990."                                                                                                                              
+print "Write down the tolerance desired. (For instance: tol = 0.01)"                                                                                                      
+                                                                                                                                                                          
+value = 1.000                                                                                                                                                             
+tol = float(raw_input(' tol -> '))                                                                                                                                        
+output = 0.000                                                                                                                                                            
+i = 1                                                                                                                                                                     
+desv = 1.000
+
+while desv >= tol:                                                                                                                                                        
+    output = output + (1.00 / (2 ** i))                                                                                                                                   
+    i += 1                                                                                                                                                                
+    desv = abs(value - output)                                                                                                                                            
+    print "1.0000 -", output, " = ", desv                                                                                                                                 
+                                                                                                                                                                          
+print "You get: ", output, " with: ", i - 1, " terms" 
+{endhighlight}
  
 <pre><code>#(Previously initialize the included variables)
 while desv = tol:
@@ -103,14 +123,6 @@ Tolerance (condition for the iterarion) d = 0.01
   </tr>
 </table>
 </center>
-
-Discussion
-==========
-
-First
-
-Last
-   This is the last item
 
 References:
 ==========
