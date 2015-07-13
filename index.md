@@ -21,6 +21,6 @@ We start this serie of posts by defining our purposes:
 List of Posts:
     {% for post in site.posts %}
     {{site.production_url}}{{ post.url }}
-    {{ post.date | date_to_string }} » {{ post.title }}
+    {{ post.date | date_to_string }} » {{ post.title }} {{post.url}}
     {% endfor %} 
 Hope you enjoy them!
