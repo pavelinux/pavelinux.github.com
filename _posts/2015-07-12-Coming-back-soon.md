@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Snippets and full programs"
-description: "Divide and conquer""
+description: "Divide and conquer"
 categories: [Python, fortran, MD]
 tags: [snippets, MD, Simulations, python]
 ---
