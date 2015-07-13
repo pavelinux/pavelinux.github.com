@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : A Cup of Python in the Morning
+title : A Cup of Python
 tagline: Python in 20 minutes
 author :
   name : Pável Oropeza 
@@ -73,7 +73,7 @@ JB :
   categories_path : /categories.html
   #tags_path : /tags.html
   atom_path : /atom.xml
-  rss_path : /rss.xml
+  #rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

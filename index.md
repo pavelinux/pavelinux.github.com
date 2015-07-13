@@ -18,9 +18,9 @@ We start this serie of posts by defining our purposes:
 * These results may be improved by iteration or redefiniton of the models.
 
 ###Here are some recent posts for start reading A Cup of Python!
-List of Python Programs:
+List of Posts:
     {% for post in site.posts %}
-        {{ post.date | date_to_string }} » {{ post.title }}
+    {{site.production_url}}{{ post.url }}
+    {{ post.date | date_to_string }} » {{ post.title }}
     {% endfor %} 
-
 Hope you enjoy them!
