@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Programming with Python"
+title: "SysAdmin and Programming with Python"
 tagline: "A Cup of Python"
 description: "index page"
 category: Scientific Programming
