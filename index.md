@@ -10,9 +10,9 @@ tags: [python, bash, programming, scripting, simulations]
 **A Cup of Python** is a personal blog about some Python projects and Sysadmin
 duties in GNU/Linux and UNIX.
 
-*The goals*
-
+*The goals... *
 We start this serie of posts by defining some goals, topics and categories. In this blog we:
+
 * Develop small and simple models using programming elements and structures
 based on Numerical Methods.
 * This programs should give an approximation to previously defined numerical or physical problems.
@@ -20,7 +20,7 @@ based on Numerical Methods.
 * Also we explain some sysadmin tasks (in Linux, mainly) which are solved
 for not reinveinting the wheel
 
-###Here are some recent posts for start reading A Cup of Python!
+Here are some recent posts for start reading A Cup of Python!
 List of Posts:
 <ul>
     {% for post in site.posts %}
