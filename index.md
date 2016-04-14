@@ -10,7 +10,6 @@ tags: [python, bash, programming, scripting, simulations]
 **A Cup of Python** is a personal blog about some Python projects and Sysadmin
 duties in GNU/Linux and UNIX.
 
-*The goals... *
 We start this serie of posts by defining some goals, topics and categories. In this blog we:
 
 * Develop small and simple models using programming elements and structures
