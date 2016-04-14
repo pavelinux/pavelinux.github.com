@@ -1,21 +1,24 @@
 ---
 layout: page
-title: "SysAdmin and Programming with Python"
-tagline: "A Cup of Python"
+title: "A Cup of Python"
+tagline: "SysAdmin and Programming with Python"
 description: "index page"
-category: Scientific Programming
-tags: [python, programming, simulations]
+category: Scientific Programming, sysadmin
+tags: [python, bash, programming, scripting, simulations]
 ---
 {% include JB/setup %}
-**A Cup of Python** is a personal blog about some little Python projects which are supposed to be read while you enjoy a *delicious cup of coffee*. 
+**A Cup of Python** is a personal blog about some Python projects and Sysadmin
+duties in GNU/Linux and UNIX.
 
-##The goals
+*The goals*
 
-We start this serie of posts by defining our purposes:
-
-* To develop small and simple models using programming elements and structures based on Numerical Methods class notes to write Python programs. 
+We start this serie of posts by defining some goals, topics and categories. In this blog we:
+* Develop small and simple models using programming elements and structures
+based on Numerical Methods.
 * This programs should give an approximation to previously defined numerical or physical problems.
 * These results may be improved by iteration or redefiniton of the models.
+* Also we explain some sysadmin tasks (in Linux, mainly) which are solved
+for not reinveinting the wheel
 
 ###Here are some recent posts for start reading A Cup of Python!
 List of Posts:
