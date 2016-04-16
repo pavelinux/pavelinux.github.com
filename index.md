@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "A Cup of Python"
 tagline: "SysAdmin and Programming with Python"
+title: "A Cup of Python"
 description: "index page"
 category: Scientific Programming, sysadmin
 tags: [python, bash, programming, scripting, simulations]
