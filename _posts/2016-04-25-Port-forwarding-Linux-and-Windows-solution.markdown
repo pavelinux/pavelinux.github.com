@@ -3,6 +3,7 @@ layout: post
 title: Forwarding a "hidden" port
 date: 2016-04-25 13:00
 categories: UNIX linux sysadmin ssh
+comments: true
 ---
 Sometimes, when we are at home doing some work (for example, some HTML) behind  *the office firewalled* unix web server and the box 
 has the 80 port closed to internet, 

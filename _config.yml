@@ -20,3 +20,5 @@ github_username:  pavelinux
 markdown: kramdown
 # Google Analytics
 ga_tracking_id: UA-76985972-1
+# Disqus
+disqus_domain: acupofpython.disqus.com
