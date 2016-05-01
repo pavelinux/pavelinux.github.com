@@ -10,7 +10,7 @@ We start this blog by defining our goals:
 applications and programs such as: Netfilter/iptables, OpenSSH, 
 netcat, nmap and many more.
 
-* We want to talk about programming in Python, bash (and others) while enjoying a delicious
+* We want to talk about programming in [Python](http://www.python.org), [bash](https://www.gnu.org/software/bash/) (and others) while enjoying a delicious
 cup of coffee.
 
 So, let's start...
