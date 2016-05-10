@@ -39,3 +39,4 @@ the [official documentation](http://www.gnu.org/software/emacs/documentation.htm
 * [Emacs Tutorial](http://www2.lib.uchicago.edu/keith/tcl-course/emacs-tutorial.html)
 * [Archlinux Emacs tuto](https://wiki.archlinux.org/index.php/Emacs)
 * [Practical Emacs - Ergoemacs](http://ergoemacs.org/emacs/emacs.html)
+* [Emacs Markdown Mode](http://jblevins.org/projects/markdown-mode/)
