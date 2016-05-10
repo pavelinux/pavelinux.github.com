@@ -33,7 +33,8 @@ to Emacs. On Mac you can install the 24.5-1 universal binary version from https:
 In conclussion, you can get the most and mastering Emacs using it and reading
 the [official documentation](http://www.gnu.org/software/emacs/documentation.html)
 
-** See also **:
+** See also **
+
 * [Emacswiki](https://www.emacswiki.org/)
 * [Emacs Tutorial](http://www2.lib.uchicago.edu/keith/tcl-course/emacs-tutorial.html)
 * [Archlinux Emacs tuto](https://wiki.archlinux.org/index.php/Emacs)
